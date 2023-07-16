@@ -5,7 +5,7 @@
   <img src="IMG_20230704_073654_523.jpg" alt="Cyber Dark Logo">
 </p>
 
-  <h1 align="center">Hello Dude🙋🏻‍♀️Welcome to my Repo <img src="https://telegra.ph/file/e38375743022a2e302513.jpg" width="40px" alt="hi"><br>
+  <h1 align="center">Hello Dude🙋🏻‍♀️Welcome to my Bio <img src="https://telegra.ph/file/e38375743022a2e302513.jpg" width="40px" alt="hi"><br>
 
 <p align="center">
 
@@ -17,9 +17,9 @@
 
 - 📍 From THIRUVALLA,PATHANAMTHITTA,Kerala,🇮🇳
 
-- 🏫 High School at ST.BEHANANS,PATHANAMTHITTA 
+- 🏫 High School at <I>IHRD_Mallapally 
 
-- 🏫 Now I'm studying 10TH STANDARD in ST.BEHANANS,VENNIKULAM
+- 🏫 Now I'm studying 12th in IHRD Mallapally 
 
 ## Support
 [![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/Cyberdark1)
