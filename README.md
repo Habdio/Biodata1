@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <b>Cyber Dark Auto Filter Bot</b>
+  <b>Joshua Thomas Rajan Bio </b>
 <p align="center">
   <img src="IMG_20230704_073654_523.jpg" alt="Cyber Dark Logo">
 </p>
@@ -23,7 +23,7 @@
 
 ## Support
 [![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/Cyberdark1)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/android_kunjappan_help)
+[![what's app badge](https://img.shields.io/badge/What's_app-Number-30302f?style=flat&logo=whatsapp)]([](https://wa.me/qr/4HUGC7CYI5X3F1)
 
 ## Credits 
 * [![CYBER DARK](https://img.shields.io/static/v1?label=CYBER&message=DARK&color=critical)](https://t.me/CYBERDARK1)
