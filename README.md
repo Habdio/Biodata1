@@ -2,7 +2,7 @@
 <h1 align="center">
   <b>Cyber Dark Auto Filter Bot</b>
 <p align="center">
-  <img src="logo/logo.jpg" alt="Cyber Dark Logo">
+  <img src="IMG_20230704_073654_523.jpg" alt="Cyber Dark Logo">
 </p>
 
   <h1 align="center">Hello Dude🙋🏻‍♀️Welcome to my Repo <img src="https://telegra.ph/file/e38375743022a2e302513.jpg" width="40px" alt="hi"><br>
