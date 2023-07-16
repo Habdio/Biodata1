@@ -9,7 +9,7 @@
 
 <p align="center">
 
-## 📢Introduce myself
+<I>## 📢Introduce myself
 
 - 🙂 I'm Joshua Thomas Rajan
 
@@ -17,7 +17,7 @@
 
 - 📍 From THIRUVALLA,PATHANAMTHITTA,Kerala,🇮🇳
 
-- 🏫 High School at <I>IHRD_Mallapally 
+- 🏫 High School at IHRD_Mallapally 
 
 - 🏫 Now I'm studying 12th in IHRD Mallapally 
 
