@@ -19,7 +19,7 @@
 
 - 🏫 High School at IHRD_Mallapally 
 
-- 🏫 Now I'm studying 12th in IHRD Mallapally 
+- 🏫 Now I'm studying 12th in IHRD Mallapally </I>
 
 ## Support
 [![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/Cyberdark1)
