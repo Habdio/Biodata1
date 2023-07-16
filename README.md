@@ -24,6 +24,7 @@
 ## Support
 [![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/Cyberdark1)
 [![what's app badge](https://img.shields.io/badge/What's_app-Number-30302f?style=flat&logo=whatsapp)](https://wa.me/qr/4HUGC7CYI5X3F1)
+[![Instagram badge](https://img.shields.io/badge/Instagram_account-30302f?style=flat&logo=Instagram)](https://instagram.com/joshua_thomas_rajan?igshid=MzNlNGNkZWQ4Mg==)
 
 ## Credits 
 * [![CYBER DARK](https://img.shields.io/static/v1?label=CYBER&message=DARK&color=critical)](https://t.me/CYBERDARK1)
